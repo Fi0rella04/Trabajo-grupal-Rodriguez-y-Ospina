@@ -11,7 +11,7 @@ data<-import("Variables independientes (1).xlsx")
 Nivel de ingresos (Income group)
 * Low income --> Ingreso nacional bruto per cápita de $1,135 o menos 
 * Lower middle income --> Ingreso nacional bruto per cápita de $1,136 a $4,465 
-* Upper middle income --> Ingreso nacional bruto per cápita de $4,466 TO $13,845
+* Upper middle income --> Ingreso nacional bruto per cápita de $4,466 a $13,845
 * High income --> Ingreso nacional bruto per cápita de $13,846 o más
 
 Nivel de desigualdad económica (Tasa de incidencia de pobreza)
